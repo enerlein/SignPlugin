@@ -11,7 +11,7 @@ import lombok.Getter;
 public class Data {
 
     @Getter
-    private static String prefix = "§8» §bSign §8× §7";
+    private static String prefix = "&7[&4&lLegitBuilder&7] &r";
 
     @Getter
     private static String noPerm = prefix + "§cDazu hast du keinen Zugriff.";
